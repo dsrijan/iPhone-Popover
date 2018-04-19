@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PushPop
 //
-//  Created by DRISHTI-IT on 17/04/18.
+//  Created by Srijan on 17/04/18.
 //  Copyright © 2018 Srijan. All rights reserved.
 //
 
